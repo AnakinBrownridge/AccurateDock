@@ -1,4 +1,5 @@
-# Patch for Arch-based Systems (CachyOS, EndeavourOS, Manjaro)
+## HOLD THERE. This is only for Arch, and I have submitted an issue for a similar problem on Fedora 44, on the main repo.
+# Patch for ONLY Arch-based Systems (CachyOS, EndeavourOS, Manjaro)
 
 ## Problem
 
