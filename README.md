@@ -1,4 +1,5 @@
-Download it on https://store.kde.org/p/2352806!
+Download it (the original) on https://store.kde.org/p/2352806!
+Or, compile the latest code for the latest features from this specific fork.
 
 ## Arch-based Systems (CachyOS, EndeavourOS, Manjaro)
 
